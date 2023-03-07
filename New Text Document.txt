@@ -1,0 +1,7 @@
+git add -A 
+
+git commit -n "message"
+
+git push origin master or main
+
+git pull origin master
